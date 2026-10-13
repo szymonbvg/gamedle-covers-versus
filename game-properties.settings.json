@@ -1,0 +1,6 @@
+{
+  "maxPlayers": [3, 1, 20],
+  "rounds": [10, 1, 512],
+  "roundTimeSeconds": [60.0, 15.0, 300.0],
+  "difficulty": [2, 1, 3]
+}
